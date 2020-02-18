@@ -1,2 +1,2 @@
 # HMOcalculations
-HMO calculations
+一些共轭体系使用简单休克尔模型计算的结果
